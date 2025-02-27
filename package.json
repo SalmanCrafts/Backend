@@ -1,0 +1,16 @@
+{
+  "name": "backend_try",
+  "version": "1.0.0",
+  "description": "A Backend Programme Present By Chai aur Code Youtuber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Backend",
+    "node.js"
+  ],
+  "author": "Mohammed Salman",
+  "license": "ISC"
+}
